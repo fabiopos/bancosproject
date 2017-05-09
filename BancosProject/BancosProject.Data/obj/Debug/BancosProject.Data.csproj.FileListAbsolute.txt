@@ -1,0 +1,9 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\BancosProject.Data.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\obj\Debug\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\obj\Debug\BancosProject.Data.pdb

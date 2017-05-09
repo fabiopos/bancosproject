@@ -1,0 +1,10 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\BancosProject.Data.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\bin\Release\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\obj\Release\BancosProject.Data.csprojResolveAssemblyReference.cache
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\obj\Release\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Data\obj\Release\BancosProject.Data.pdb

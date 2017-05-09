@@ -1,0 +1,16 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Wcf.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Wcf.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Wcf.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\obj\Release\BancosProject.Wcf.csprojResolveAssemblyReference.cache
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\obj\Release\BancosProject.Wcf.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\obj\Release\BancosProject.Wcf.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\Renci.SshNet.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Wcf\bin\Renci.SshNet.xml

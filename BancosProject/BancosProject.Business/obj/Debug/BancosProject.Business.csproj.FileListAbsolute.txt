@@ -1,0 +1,14 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\BancosProject.Business.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Debug\BancosProject.Business.csprojResolveAssemblyReference.cache
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Debug\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Debug\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\Renci.SshNet.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Debug\Renci.SshNet.xml

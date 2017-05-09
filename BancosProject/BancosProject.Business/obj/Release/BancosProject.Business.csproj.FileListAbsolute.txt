@@ -1,0 +1,14 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\BancosProject.Business.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Release\BancosProject.Business.csprojResolveAssemblyReference.cache
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Release\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\obj\Release\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\Renci.SshNet.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.Business\bin\Release\Renci.SshNet.xml

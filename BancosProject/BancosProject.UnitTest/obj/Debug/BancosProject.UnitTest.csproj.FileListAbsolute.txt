@@ -1,0 +1,16 @@
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.UnitTest.dll.config
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.UnitTest.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.UnitTest.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.Business.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\EntityFramework.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.Data.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.Business.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\EntityFramework.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\BancosProject.Data.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\obj\Debug\BancosProject.UnitTest.csprojResolveAssemblyReference.cache
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\obj\Debug\BancosProject.UnitTest.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\obj\Debug\BancosProject.UnitTest.pdb
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\Renci.SshNet.dll
+F:\Universidad\Teoría de la Información y la Comunicación\Project\BancosProject\BancosProject.UnitTest\bin\Debug\Renci.SshNet.xml
